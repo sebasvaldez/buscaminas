@@ -1,4 +1,4 @@
-# buscaminas
+# BUSCAMINAS
 Práctica recreando el clásico juego del buscaminas usando HTML, CSS y JS
 
 
